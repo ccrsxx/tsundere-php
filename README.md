@@ -27,14 +27,14 @@
    notepad ~\scoop\apps\php\current\cli\php.ini
    ```
 
-1. Create CI 4 template with composer
+1. Create CI 4 template with composer and CD to it
 
    ```powershell
    composer create-project codeigniter4/appstarter project-root
    cd project root
    ```
 
-1. Uncomment `CI_ENVIRONMENT` and change it to `development`
+1. Uncomment `CI_ENVIRONMENT` on the `.env` and change it to `development`
 
 1. Serve the CI
 
