@@ -2,9 +2,20 @@
 
 ## Assignments
 
-- Contoh 1: `http://localhost:8080/introduction`
-- Contoh 2: `http://localhost:8080/calculator/addition/10/20`
-- Contoh 3: `http://localhost:8080/calculator/addition-alternative/10/20`
+- Tugas 02
+
+  - Contoh 1: `http://localhost:8080/introduction`
+  - Contoh 2: `http://localhost:8080/calculator/addition/10/20`
+  - Contoh 3: `http://localhost:8080/calculator/addition-alternative/10/20`
+
+- Tugas 03
+
+  - Contoh 1: `http://localhost:8080/form-class`
+  - Contoh 2: `http://localhost:8080/form-class/print-form-result`
+
+- Tugas 04
+  - Contoh 1: `http://localhost:8080/home`
+  - Contoh 2: `http://localhost:8080/home/about`
 
 ## How to install
 

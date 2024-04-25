@@ -6,6 +6,8 @@ use CodeIgniter\Router\RouteCollection;
  * @var RouteCollection $routes
  */
 $routes->get('/', 'Home::index');
+$routes->get('/home', "Home::home");
+$routes->get('/home/about', "Home::about");
 $routes->get('/introduction', 'Introduction::index');
 $routes->get('/form-class', 'FormClass::index');
 $routes->post('/form-class/print-form-result', 'FormClass::print_form_result');
