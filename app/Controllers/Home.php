@@ -9,25 +9,21 @@ class Home extends BaseController
         return view('welcome_message');
     }
 
-    public function home(): void
+    public function home(): string
     {
         $data = [
             'judul' => 'Halaman Depan'
         ];
 
-        echo view("home/header");
-        echo view("home/index", $data);
-        echo view("home/footer");
+        return view('home/header') . view('home/index', $data) . view('home/footer');
     }
 
-    public function about(): void
+    public function about(): string
     {
         $data = [
             'judul' => 'Halaman About'
         ];
 
-        echo view("home/header");
-        echo view("home/about", $data);
-        echo view("home/footer");
+        return view('home/header') . view('home/about', $data) . view('home/footer');
     }
 }
