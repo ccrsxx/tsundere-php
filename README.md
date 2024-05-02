@@ -14,8 +14,21 @@
   - Contoh 2: `http://localhost:8080/form-class/print-form-result`
 
 - Tugas 04
+
   - Contoh 1: `http://localhost:8080/home`
   - Contoh 2: `http://localhost:8080/home/about`
+
+- Tugas 05
+
+  - Contoh 1: `http://localhost:8080/form-class`
+  - Contoh 2: `http://localhost:8080/form-class/print-form-result`
+
+- Tugas 06
+
+  - Contoh 1: `http://localhost:8080/test-query/book`
+  - Contoh 2: `http://localhost:8080/test-query/user`
+  - Contoh 3: `http://localhost:8080/test-query/role`
+  - Contoh 4: `http://localhost:8080/test-query/category`
 
 ## How to install
 
